@@ -1,0 +1,23 @@
+{
+  "common": {
+    "ar": "230000",
+    "ba": "Xiaomi",
+    "ch": "web",
+    "is_new": "1",
+    "md": "Xiaomi 10 Pro ",
+    "mid": "mid_451468",
+    "os": "Android 10.0",
+    "uid": "64",
+    "vc": "v2.1.134"
+  },
+  "err": {
+    "error_code": 3894,
+    "msg": " Exception in thread \\  java.net.SocketTimeoutException\\n \\tat com.atgugu.gmall2020.mock.log.bean.AppError.main(AppError.java:xxxxxx)"
+  },
+  "page": {
+    "during_time": 1450,
+    "last_page_id": "home",
+    "page_id": "search"
+  },
+  "ts": 1742476637000
+}
